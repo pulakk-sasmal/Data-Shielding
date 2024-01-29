@@ -1,4 +1,4 @@
-# Steganopy - Python Image Steganography
+# Data Shielding - Python Image Steganography
 
 ## Overview
 
